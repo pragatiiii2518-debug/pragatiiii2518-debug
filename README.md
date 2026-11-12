@@ -1,4 +1,4 @@
-# Hey, I'm Pragati! 
+# Hey, I'm Pragati 
 
 ### CSE Student • Developer • Tech Explorer
 
@@ -6,7 +6,7 @@ Building ideas into real-world projects. Exploring software development, AI and 
 
 ---
 
-### ⚡ Tech Stack
+###  Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
