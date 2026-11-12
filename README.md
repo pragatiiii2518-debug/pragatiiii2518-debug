@@ -1,59 +1,35 @@
-# Hi, I'm Pragati Prasad! 👋
+# Hey, I'm Pragati! 
 
-### Computer Science Engineering Student | Aspiring Software Developer | Exploring AI & Technology
+### CSE Student • Developer • Tech Explorer
 
-I'm a Computer Science Engineering student passionate about building practical solutions through technology. I enjoy exploring software development, problem-solving, and emerging technologies while continuously expanding my technical skills.
+Building ideas into real-world projects. Exploring software development, AI and technology.
 
-I believe in learning by building. From developing web and mobile applications to experimenting with AI-driven solutions and hardware-based projects, I enjoy turning ideas into functional projects and gaining hands-on experience along the way.
+---
 
-### 🚀 What I'm Currently Focused On
+### ⚡ Tech Stack
 
-- Strengthening my Data Structures and Algorithms skills using C++.
-- Exploring Artificial Intelligence and Machine Learning.
-- Improving my software development and problem-solving abilities.
-- Building practical projects and exploring new technologies.
-- Preparing for software development and technology internships.
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-### 🛠️ Languages and Technologies
+---
 
-**Programming Languages**
-- C++
-- Java
-- Python
-- JavaScript
 
-**Web Development**
-- HTML
-- CSS
-- React
-- Node.js
+### 📊 GitHub Stats
 
-**Tools & Platforms**
-- Git & GitHub
-- VS Code
-- Flutter
-- Unity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pragatiiii2518-debug&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragatiiii2518-debug&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-### 💻 Featured Projects
-
-**Smart Glove – Virtual Object Interaction**
-- Developed a low-cost smart glove using flex sensors, an MPU6050 IMU and ESP32.
-- Integrated hardware motion tracking with Unity for virtual object interaction.
-
-**Personal Portfolio Website**
-- Designed and developed a personal portfolio to showcase my skills, projects and technical journey.
-
-**LovePing – Flutter Application**
-- Developed a Flutter-based mobile application focused on interactive user experiences.
-
-**UniVerse – University Student Portal**
-- Worked on a student portal designed to bring academic resources, communication and campus updates together.
-
-### 🌱 Beyond Coding
-
-I enjoy exploring new ideas, understanding how technology shapes the world, and challenging myself to learn beyond the classroom. I'm always looking for opportunities to grow, collaborate and build something meaningful.
-
-### 🤝 Let's Connect!
-
-I'm open to internship opportunities, collaborative projects and connecting with fellow developers.
+---
 
